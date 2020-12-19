@@ -1,0 +1,21 @@
+Formation : 0 ---> +°°
+
+Realisation de chaier de charge : 06/12 ---> 10/12
+
+Conception UML : 11/12 ---> 17/12
+
+Creation de la base de donnnées : 18/12 ---> 19/12
+
+Preparation d'environement : 20/12 
+
+Conception interface utilisateur web : 10/12 ---> 20/12
+
+Creation de Tableau de board : 21/12 ---> 31/12
+
+Creation de le site Web : 01/01 ----> 21/01
+
+Test : 22/01 ---> 26/01
+
+Rapport : 20/12 --------------> 05/02
+
+Guide Manuelle : 06/02 ---------> 12/02
